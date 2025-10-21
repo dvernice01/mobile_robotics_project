@@ -21,6 +21,10 @@ Implementare il controllo del robot da un visore, quindi controllo il robot come
 
 
 
+[link per launch file Rviz](https://docs.ros.org/en/foxy/Tutorials/Intermediate/URDF/Using-URDF-with-Robot-State-Publisher.html#create-a-launch-file)
+
+
+
 
 
 
