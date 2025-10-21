@@ -1,0 +1,31 @@
+Giorno 07/10/2025 -> primo meeting con Nunzio dove ho definito gli obiettivi relativi al progetto di Mobile Robotics e Tirocinio/Tesi. 
+
+# OBIETTIVO FINALE 
+Implementare su IsaacLAb un robot UGV con Zed-Camera integrata da controllare da joystick e supportato da teleoperazione (deve essere un robot intelligente capace di riconoscere l'ambiente e assistere l'utente quindi utilizzare Collision Avoidance ecc) e con possibilità di implementare ciò che è ottenuto su un robot del laboratorio.
+
+# Suddivisione del progetto
+## Mobile Robotics :
+
+Creare una simulazione con il Robot UGV con Zed camera integrata e funzionante tramite ROS2Bridge quindi implementare guida assistita per un DifferentialDrive robot con Central Body function o Artificial potental field e ricavare il tutto su RViz
+
+## Tirocinio e Tesi : 
+Implementare il controllo del robot da un visore, quindi controllo il robot come se fossi lontano da lui e non all'interno (sono io a prendere le decisioni per il robot, è come un joystick in cui però sei teleassistito) poi usi l'imitation learning per addestrare il robot a muoversi da solo ma sulla base del tuo processo decisionale.
+
+## Link utili forniti da Nunzio
+
+[Link IsaacLab](https://developer.nvidia.com/isaac/lab)
+
+[Link IsaacLab per ZedCamera](https://www.stereolabs.com/docs/isaac-sim)
+
+[Link IsaacLab per installazione di ROS](https://docs.isaacsim.omniverse.nvidia.com/latest/installation/install_ros.html)
+
+
+
+
+
+
+
+ 
+
+
+
