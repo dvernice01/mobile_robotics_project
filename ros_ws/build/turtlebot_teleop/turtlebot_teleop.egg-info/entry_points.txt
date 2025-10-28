@@ -1,0 +1,2 @@
+[console_scripts]
+teleop_keyboard = turtlebot_teleop.teleop_keyboard:main

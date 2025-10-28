@@ -1,0 +1,2 @@
+[console_scripts]
+state_publisher = urdf_file.state_publisher:main

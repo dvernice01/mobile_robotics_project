@@ -1,0 +1,39 @@
+[0.685s] Invoking command in '/root/ros_workspace/src/urdf_file': PYTHONPATH=/root/ros_workspace/build/urdf_file/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/ros_workspace/install/urdf_file/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/urdf_file build --build-base /root/ros_workspace/build/urdf_file/build install --record /root/ros_workspace/build/urdf_file/install.log --single-version-externally-managed install_data
+[0.897s] running egg_info
+[0.898s] creating ../../build/urdf_file/urdf_file.egg-info
+[0.909s] writing ../../build/urdf_file/urdf_file.egg-info/PKG-INFO
+[0.910s] writing dependency_links to ../../build/urdf_file/urdf_file.egg-info/dependency_links.txt
+[0.910s] writing entry points to ../../build/urdf_file/urdf_file.egg-info/entry_points.txt
+[0.910s] writing requirements to ../../build/urdf_file/urdf_file.egg-info/requires.txt
+[0.910s] writing top-level names to ../../build/urdf_file/urdf_file.egg-info/top_level.txt
+[0.910s] writing manifest file '../../build/urdf_file/urdf_file.egg-info/SOURCES.txt'
+[0.935s] reading manifest file '../../build/urdf_file/urdf_file.egg-info/SOURCES.txt'
+[0.936s] writing manifest file '../../build/urdf_file/urdf_file.egg-info/SOURCES.txt'
+[0.936s] running build
+[0.936s] running build_py
+[0.936s] creating /root/ros_workspace/build/urdf_file/build
+[0.937s] creating /root/ros_workspace/build/urdf_file/build/lib
+[0.937s] creating /root/ros_workspace/build/urdf_file/build/lib/urdf_file
+[0.937s] copying urdf_file/__init__.py -> /root/ros_workspace/build/urdf_file/build/lib/urdf_file
+[0.937s] copying urdf_file/state_publisher.py -> /root/ros_workspace/build/urdf_file/build/lib/urdf_file
+[0.937s] running install
+[0.944s] running install_lib
+[0.957s] creating /root/ros_workspace/install/urdf_file/lib/python3.12/site-packages/urdf_file
+[0.957s] copying /root/ros_workspace/build/urdf_file/build/lib/urdf_file/__init__.py -> /root/ros_workspace/install/urdf_file/lib/python3.12/site-packages/urdf_file
+[0.957s] copying /root/ros_workspace/build/urdf_file/build/lib/urdf_file/state_publisher.py -> /root/ros_workspace/install/urdf_file/lib/python3.12/site-packages/urdf_file
+[0.958s] byte-compiling /root/ros_workspace/install/urdf_file/lib/python3.12/site-packages/urdf_file/__init__.py to __init__.cpython-312.pyc
+[0.958s] byte-compiling /root/ros_workspace/install/urdf_file/lib/python3.12/site-packages/urdf_file/state_publisher.py to state_publisher.cpython-312.pyc
+[0.959s] running install_data
+[0.959s] creating /root/ros_workspace/install/urdf_file/share/ament_index
+[0.959s] creating /root/ros_workspace/install/urdf_file/share/ament_index/resource_index
+[0.959s] creating /root/ros_workspace/install/urdf_file/share/ament_index/resource_index/packages
+[0.959s] copying resource/urdf_file -> /root/ros_workspace/install/urdf_file/share/ament_index/resource_index/packages
+[0.959s] copying package.xml -> /root/ros_workspace/install/urdf_file/share/urdf_file
+[0.960s] creating /root/ros_workspace/install/urdf_file/share/urdf_file/launch
+[0.960s] copying launch/display.launch.py -> /root/ros_workspace/install/urdf_file/share/urdf_file/launch
+[0.960s] running install_egg_info
+[0.974s] Copying ../../build/urdf_file/urdf_file.egg-info to /root/ros_workspace/install/urdf_file/lib/python3.12/site-packages/urdf_file-0.0.0-py3.12.egg-info
+[0.974s] running install_scripts
+[1.068s] Installing state_publisher script to /root/ros_workspace/install/urdf_file/lib/urdf_file
+[1.068s] writing list of installed files to '/root/ros_workspace/build/urdf_file/install.log'
+[1.102s] Invoked command in '/root/ros_workspace/src/urdf_file' returned '0': PYTHONPATH=/root/ros_workspace/build/urdf_file/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/ros_workspace/install/urdf_file/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/urdf_file build --build-base /root/ros_workspace/build/urdf_file/build install --record /root/ros_workspace/build/urdf_file/install.log --single-version-externally-managed install_data
